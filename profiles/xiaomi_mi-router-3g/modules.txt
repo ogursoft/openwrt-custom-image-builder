@@ -131,7 +131,7 @@ kmod-usb3
 kmod-wireguard
 libattr
 libblkid1
-libblobmsg-json20220515
+libblobmsg-json
 libbz2-1.0
 libc
 libcap
