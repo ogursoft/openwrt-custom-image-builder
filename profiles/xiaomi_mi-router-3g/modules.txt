@@ -1,5 +1,4 @@
 adblock
-atinout
 base-files
 block-mount
 busybox
